@@ -1,5 +1,8 @@
 InsPy
 =========
+Please find the latest update in the main branch below:
+
+https://github.com/gcdengansto/inspy
 
 .. warning::
     New releases may not be backwards compatibile.
