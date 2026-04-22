@@ -2,7 +2,8 @@ InsPy
 =========
 Please find the latest update in the main branch below:
 
-https://github.com/gcdengansto/inspy
+https://github.com/gcdengansto/inspy-conv
+
 
 .. warning::
     New releases may not be backwards compatibile.
@@ -42,18 +43,15 @@ The following packages are required to install this library:
 * ``matplotlib >= 3.1.0``
 * ``h5py``
 
-The following package is required to use the ``inspy`` entry-point gui optional feature
-
-* ``pyqt5 >= 5.4.1``
-
-The following packages are required to test this library:
-
-* ``pytest >= 3``
-* ``mock``
 
 
 Installation
 ------------
+PIP installation to get the latest version:
+
+pip install inspy-conv
+
+(after installation, still use "import inspy" to use it in your code)
 
 Local installation: go to the folder of InsPy
 
