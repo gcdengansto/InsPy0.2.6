@@ -49,7 +49,7 @@ Installation
 ------------
 PIP installation to get the latest version:
 
-pip install inspy-conv
+    pip install inspy-conv
 
 (after installation, still use "import inspy" to use it in your code)
 
